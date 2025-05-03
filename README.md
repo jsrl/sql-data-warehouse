@@ -59,7 +59,9 @@ sql_data_warehouse/                     # Root directory of the project
 ├── docs/                               # Project documentation and architecture details
 │
 ├── scripts/advanced_analytics/         # Advanced analytics scripts for data analysis and reporting
+│
 ├── scripts/exploratory_data_analysis/  # Exploratory data analysis scripts for initial data exploration
+│
 ├── scripts/warehouse/                  # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
