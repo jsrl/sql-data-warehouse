@@ -1,0 +1,38 @@
+ID,CAT,SUBCAT,MAINTENANCE
+AC_BR,Accessories,Bike Racks,Yes
+AC_BS,Accessories,Bike Stands,No
+AC_BC,Accessories,Bottles and Cages,No
+AC_CL,Accessories,Cleaners,Yes
+AC_FE,Accessories,Fenders,No
+AC_HE,Accessories,Helmets,Yes
+AC_HP,Accessories,Hydration Packs,No
+AC_LI,Accessories,Lights,Yes
+AC_LO,Accessories,Locks,Yes
+AC_PA,Accessories,Panniers,No
+AC_PU,Accessories,Pumps,Yes
+AC_TT,Accessories,Tires and Tubes,Yes
+BI_MB,Bikes,Mountain Bikes,Yes
+BI_RB,Bikes,Road Bikes,Yes
+BI_TB,Bikes,Touring Bikes,Yes
+CL_BS,Clothing,Bib-Shorts,No
+CL_CA,Clothing,Caps,No
+CL_GL,Clothing,Gloves,No
+CL_JE,Clothing,Jerseys,No
+CL_SH,Clothing,Shorts,No
+CL_SO,Clothing,Socks,No
+CL_TI,Clothing,Tights,No
+CL_VE,Clothing,Vests,No
+CO_BB,Components,Bottom Brackets,Yes
+CO_BR,Components,Brakes,Yes
+CO_CH,Components,Chains,Yes
+CO_CS,Components,Cranksets,Yes
+CO_DE,Components,Derailleurs,Yes
+CO_FO,Components,Forks,Yes
+CO_HB,Components,Handlebars,No
+CO_HS,Components,Headsets,No
+CO_MF,Components,Mountain Frames,Yes
+CO_PD,Components,Pedals,No
+CO_RF,Components,Road Frames,Yes
+CO_SA,Components,Saddles,No
+CO_TF,Components,Touring Frames,Yes
+CO_WH,Components,Wheels,Yes
