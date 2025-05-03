@@ -4,6 +4,13 @@ Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
 ---
+
+## 📅 Project Planning
+
+You can find the detailed project planning on Notion: [SQL Data Warehouse Project](https://jorofer.notion.site/SQL-Data-Warehouse-Project-1e6399e940ff800392afed37176fa2c2)
+
+---
+
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
